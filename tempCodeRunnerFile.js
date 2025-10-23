@@ -1,0 +1,1 @@
+https://www.gstatic.com/firebasejs/11.10.0/firebase-database.js
